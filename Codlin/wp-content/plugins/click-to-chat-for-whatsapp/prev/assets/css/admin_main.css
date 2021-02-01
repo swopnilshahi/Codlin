@@ -1,0 +1,18 @@
+/* Admin Styles */
+
+.display-none {
+    display: none; }
+
+.display-block {
+    display: block; }
+
+input.input-margin {
+    margin: 0 0 3px 0 !important; }
+
+.select-margin .select-1 input {
+    margin: 0 0 3px 0 !important; }
+
+.options .submit {
+    position: sticky !important;
+    bottom: 1px;
+    float: right; }

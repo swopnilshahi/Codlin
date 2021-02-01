@@ -1,0 +1,37 @@
+/* Admin CSS */
+
+.show-hide_display-none {
+    display: none; 
+}
+  
+.show-hide_display-block {
+    display: block; 
+}
+
+
+
+.options .submit {
+    position: sticky !important;
+    bottom: 1px;
+    float: right;
+    z-index: 9;
+}
+
+.options .submit input {
+    letter-spacing: 0.4px;
+    padding: 2px 11px;
+}
+
+
+@media only screen and (min-width: 1201px) {
+    .sticky-sidebar {
+        position: sticky !important;
+        top: 100px;
+        float: right;
+    }
+
+    .sticky-sidebar .sidebar-content {
+        margin-top: 70px; 
+        margin-left: 80px;
+    }
+}

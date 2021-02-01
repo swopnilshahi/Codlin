@@ -1,0 +1,334 @@
+# Copyright (C) 2019 Easy Populate Posts
+# This file is distributed under the same license as the Easy Populate Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Populate Posts 3.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-populate-"
+"posts\n"
+"POT-Creation-Date: 2019-06-23 07:45:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: easy-populate-posts.php:271
+msgid "Saving settings..."
+msgstr ""
+
+#: easy-populate-posts.php:272 easy-populate-posts.php:277
+msgid "Done!"
+msgstr ""
+
+#: easy-populate-posts.php:273 easy-populate-posts.php:775
+msgid "Save Settings"
+msgstr ""
+
+#: easy-populate-posts.php:276
+msgid "Generating posts..."
+msgstr ""
+
+#: easy-populate-posts.php:278 easy-populate-posts.php:776
+msgid "Execute Posts Add"
+msgstr ""
+
+#. #-#-#-#-#  easy-populate-posts.pot (Easy Populate Posts 3.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: easy-populate-posts.php:356 easy-populate-posts.php:357
+msgid "Easy Populate Posts"
+msgstr ""
+
+#: easy-populate-posts.php:416 easy-populate-posts.php:428
+msgid "Action not allowed."
+msgstr ""
+
+#: easy-populate-posts.php:526
+msgid "Images to be set randomly as featured image."
+msgstr ""
+
+#: easy-populate-posts.php:556
+msgid "Easy Populate Posts Settings"
+msgstr ""
+
+#: easy-populate-posts.php:559
+msgid ""
+"The is a helper plugin that allows developers to populate the sites with "
+"random content (posts with random tags, images, date in the past or in the "
+"future, sticky flag), but with specific meta values and taxonomy terms "
+"associated if the case."
+msgstr ""
+
+#: easy-populate-posts.php:568 easy-populate-posts.php:574
+msgid "Content"
+msgstr ""
+
+#: easy-populate-posts.php:570
+msgid "Title Prefix"
+msgstr ""
+
+#: easy-populate-posts.php:570
+msgid "use #NO for counter"
+msgstr ""
+
+#: easy-populate-posts.php:571
+msgid "Start the auto-increment prefix number from this"
+msgstr ""
+
+#: easy-populate-posts.php:576 easy-populate-posts.php:592
+#: easy-populate-posts.php:604 easy-populate-posts.php:635
+msgid "Random"
+msgstr ""
+
+#: easy-populate-posts.php:577
+msgid "Star Wars"
+msgstr ""
+
+#: easy-populate-posts.php:578
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: easy-populate-posts.php:582
+msgid "Excerpt"
+msgstr ""
+
+#: easy-populate-posts.php:584
+msgid "No excerpt"
+msgstr ""
+
+#: easy-populate-posts.php:585
+msgid "Excerpt from content"
+msgstr ""
+
+#: easy-populate-posts.php:586
+msgid "Random excerpt"
+msgstr ""
+
+#: easy-populate-posts.php:590
+msgid "Paragraphs"
+msgstr ""
+
+#: easy-populate-posts.php:602
+msgid "Sticky Post"
+msgstr ""
+
+#: easy-populate-posts.php:605
+msgid "Yes"
+msgstr ""
+
+#: easy-populate-posts.php:606
+msgid "No"
+msgstr ""
+
+#: easy-populate-posts.php:612
+msgid "Post"
+msgstr ""
+
+#: easy-populate-posts.php:614
+msgid "how many to generate"
+msgstr ""
+
+#: easy-populate-posts.php:615
+msgid "Maximum"
+msgstr ""
+
+#: easy-populate-posts.php:618
+msgid "Type"
+msgstr ""
+
+#: easy-populate-posts.php:628
+msgid "Parent"
+msgstr ""
+
+#: easy-populate-posts.php:629
+msgid "Parent ID"
+msgstr ""
+
+#: easy-populate-posts.php:630
+msgid "for hierarchical type only"
+msgstr ""
+
+#: easy-populate-posts.php:633
+msgid "Date"
+msgstr ""
+
+#: easy-populate-posts.php:634
+msgid "Hour"
+msgstr ""
+
+#: easy-populate-posts.php:636
+msgid "Specific Date & Status"
+msgstr ""
+
+#: easy-populate-posts.php:637
+msgid "In the past"
+msgstr ""
+
+#: easy-populate-posts.php:638
+msgid "In the future"
+msgstr ""
+
+#: easy-populate-posts.php:648
+msgid "Status"
+msgstr ""
+
+#: easy-populate-posts.php:651
+msgid "will set a random status, correlated with the publish date"
+msgstr ""
+
+#: easy-populate-posts.php:657
+msgid "Not Specific"
+msgstr ""
+
+#: easy-populate-posts.php:668 easy-populate-posts.php:672
+msgid "defaults to"
+msgstr ""
+
+#: easy-populate-posts.php:668
+msgid "published"
+msgstr ""
+
+#: easy-populate-posts.php:672
+msgid "scheduled"
+msgstr ""
+
+#: easy-populate-posts.php:677
+msgid "Terms"
+msgstr ""
+
+#: easy-populate-posts.php:682
+msgid "Random Tags"
+msgstr ""
+
+#: easy-populate-posts.php:686
+msgid "separated by comma"
+msgstr ""
+
+#: easy-populate-posts.php:689 easy-populate-posts.php:703
+msgid "Taxonomy"
+msgstr ""
+
+#: easy-populate-posts.php:697 easy-populate-posts.php:711
+msgid "name"
+msgstr ""
+
+#: easy-populate-posts.php:698 easy-populate-posts.php:712
+msgid "separate terms names by comma, these will be created if not found"
+msgstr ""
+
+#: easy-populate-posts.php:699 easy-populate-posts.php:713
+msgid "term_id"
+msgstr ""
+
+#: easy-populate-posts.php:720
+msgid "Meta"
+msgstr ""
+
+#: easy-populate-posts.php:722 easy-populate-posts.php:727
+#: easy-populate-posts.php:732 easy-populate-posts.php:738
+#: easy-populate-posts.php:743
+msgid "Post Meta"
+msgstr ""
+
+#: easy-populate-posts.php:744
+msgid "Each of the specified post meta is a pair of meta_key and meta_value"
+msgstr ""
+
+#: easy-populate-posts.php:745
+msgid "See the list of exisiting post meta"
+msgstr ""
+
+#: easy-populate-posts.php:745
+msgid "ACF Fields Post Meta"
+msgstr ""
+
+#: easy-populate-posts.php:745
+msgid "Other Post Meta"
+msgstr ""
+
+#: easy-populate-posts.php:745
+msgid "Tags"
+msgstr ""
+
+#: easy-populate-posts.php:745
+msgid "Categories"
+msgstr ""
+
+#: easy-populate-posts.php:723 easy-populate-posts.php:728
+#: easy-populate-posts.php:733 easy-populate-posts.php:739
+#: easy-populate-posts.php:744
+msgid "key"
+msgstr ""
+
+#: easy-populate-posts.php:724 easy-populate-posts.php:729
+#: easy-populate-posts.php:734 easy-populate-posts.php:740
+#: easy-populate-posts.php:745
+msgid "value"
+msgstr ""
+
+#: easy-populate-posts.php:750
+msgid "Images"
+msgstr ""
+
+#: easy-populate-posts.php:754
+msgid "Click here to "
+msgstr ""
+
+#: easy-populate-posts.php:754
+msgid "use the plugin sample images"
+msgstr ""
+
+#: easy-populate-posts.php:754
+msgid ""
+"You can add your own images URLs and click the \"save settings\" button (add "
+"URLs of images, separated by new line)."
+msgstr ""
+
+#: easy-populate-posts.php:772
+msgid "CONTENT CLEANUP ON DEACTIVATE"
+msgstr ""
+
+#: easy-populate-posts.php:772
+msgid ""
+"please be careful, if you enable this option, when you deactivate the "
+"plugin, the content populated with this plugin will be removed, including "
+"the generated images"
+msgstr ""
+
+#: easy-populate-posts.php:1146
+msgid "Edit post"
+msgstr ""
+
+#. Translators: %1$s - image URL, %2$s - icon URL, %3$s - donate URL, %4$s -
+#. link style, %5$s - icon style, %6$s - rating.
+#: easy-populate-posts.php:1385
+msgid ""
+"<a href=\"%3$s\" target=\"_blank\"%4$s><img src=\"%1$s\"></a><img src=\"%2$s"
+"\"%5$s> <h3>Thank you for activating the plugin Easy Populate Posts!</h3>If "
+"you find the plugin useful and would like to support my work, please "
+"consider making a <a href=\"%3$s\" target=\"_blank\">donation</a>. It would "
+"make me very happy if you would leave a %6$s rating."
+msgstr ""
+
+#: easy-populate-posts.php:1385
+msgid "A huge thanks in advance!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://iuliacazan.ro/easy-populate-posts/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Populate your site with random generated content. You can configure the post "
+"type, description, excerpt, tags, post meta, terms, images, publish date, "
+"status, parent, sticky, etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Iulia Cazan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/iulia-cazan"
+msgstr ""

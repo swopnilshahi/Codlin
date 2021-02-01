@@ -1,0 +1,161 @@
+/* Material Design styles - load on 8 */
+
+  .mdstyle8 a {
+    background-color: transparent; }
+  .mdstyle8 a:active,
+  .mdstyle8 a:hover {
+    outline: 0; }
+  .mdstyle8 b,
+  .mdstyle8 strong {
+    font-weight: bold; }
+  .mdstyle8 small {
+    font-size: 80%; }
+  .mdstyle8 img {
+    border: 0; }
+  .mdstyle8 svg:not(:root) {
+    overflow: hidden; }
+  .mdstyle8 input,
+  .mdstyle8 button {
+    overflow: visible; }
+  .mdstyle8 button,
+  .mdstyle8 html input[type="button"],
+  .mdstyle8 button[disabled],
+  .mdstyle8 html input[disabled] {
+    cursor: default; }
+  .mdstyle8 button::-moz-focus-inner,
+  .mdstyle8 input::-moz-focus-inner {
+    border: 0;
+    padding: 0; }
+  .mdstyle8 *, .mdstyle8 *:before, .mdstyle8 *:after {
+    box-sizing: inherit; }
+  .mdstyle8 a {
+    color: #039be5;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent; }
+  .mdstyle8 .clearfix {
+    clear: both; }
+  .mdstyle8 .z-depth-0 {
+    box-shadow: none !important; }
+  .mdstyle8 .z-depth-1, .mdstyle8 .btn, .mdstyle8 .btn-large, .mdstyle8 .btn-floating {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); }
+  .mdstyle8 .z-depth-1-half, .mdstyle8 .btn:hover, .mdstyle8 .btn-large:hover, .mdstyle8 .btn-floating:hover {
+    box-shadow: 0 3px 3px 0 rgba(7, 6, 6, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2); }
+  .mdstyle8 .z-depth-2 {
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3); }
+  .mdstyle8 .z-depth-3 {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3); }
+  .mdstyle8 .z-depth-4 {
+    box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.3); }
+  .mdstyle8 .z-depth-5 {
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3); }
+  .mdstyle8 .hoverable {
+    transition: box-shadow .25s; }
+    .mdstyle8 .hoverable:hover {
+      box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+  .mdstyle8 i {
+    line-height: inherit; }
+    .mdstyle8 i.left {
+      float: left;
+      margin-right: 15px; }
+    .mdstyle8 i.right {
+      float: right;
+      margin-left: 15px; }
+    .mdstyle8 i.tiny {
+      font-size: 1rem; }
+    .mdstyle8 i.small {
+      font-size: 2rem; }
+    .mdstyle8 i.medium {
+      font-size: 4rem; }
+    .mdstyle8 i.large {
+      font-size: 6rem; }
+  .mdstyle8 .hide {
+    display: none !important; }
+  .mdstyle8 .left-align {
+    text-align: left; }
+  .mdstyle8 .right-align {
+    text-align: right; }
+  .mdstyle8 .center, .mdstyle8 .center-align {
+    text-align: center; }
+  .mdstyle8 .left {
+    float: left !important; }
+  .mdstyle8 .right {
+    float: right !important; }
+  .mdstyle8 .no-select {
+    user-select: none; }
+  .mdstyle8 .no-padding {
+    padding: 0 !important; }
+  .mdstyle8 a {
+    text-decoration: none; }
+  .mdstyle8 strong {
+    font-weight: 500; }
+  .mdstyle8 small {
+    font-size: 75%; }
+  .mdstyle8 .light, .mdstyle8 .page-footer .footer-copyright {
+    font-weight: 300; }
+  .mdstyle8 .thin {
+    font-weight: 200; }
+  .mdstyle8 .btn, .mdstyle8 .btn-large,
+  .mdstyle8 .btn-flat {
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 2rem;
+    /* text-transform: uppercase; */
+    vertical-align: middle;
+    -webkit-tap-highlight-color: transparent; }
+  .mdstyle8 .btn, .mdstyle8 .btn-large,
+  .mdstyle8 .btn-floating,
+  .mdstyle8 .btn-large,
+  .mdstyle8 .btn-flat {
+    font-size: 1rem;
+    outline: 0; }
+    .mdstyle8 .btn i, .mdstyle8 .btn-large i,
+    .mdstyle8 .btn-large i {
+      font-size: 1.3rem;
+      line-height: inherit; }
+  .mdstyle8 .btn:focus, .mdstyle8 .btn-large:focus,
+  .mdstyle8 .btn, .mdstyle8 .btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #26a69a;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer; }
+    .mdstyle8 .btn:hover, .mdstyle8 .btn-large:hover {
+      background-color: #2bbbad; }
+  .mdstyle8 .fixed-action-btn {
+    position: fixed;
+    right: 23px;
+    bottom: 23px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    z-index: 997; }
+    .mdstyle8 .fixed-action-btn.horizontal {
+      padding: 0 0 0 15px; }
+    .mdstyle8 .fixed-action-btn.toolbar {
+      padding: 0;
+      height: 56px; }
+      .mdstyle8 .fixed-action-btn.toolbar.active > a i {
+        opacity: 0; }
+  .mdstyle8 .btn-large {
+    height: 54px;
+    line-height: 54px; }
+    .mdstyle8 .btn-large i {
+      font-size: 1.6rem; }
+  .mdstyle8 button:focus {
+    outline: none;
+    background-color: #2ab7a9; }
+
+
+/* custom code */
+
+/* new interface: style-8 */
+.ht-ctc-style-8 {
+  display: block !important;
+}
+.ht-ctc-sc-style-8 {
+  display: inline;
+}

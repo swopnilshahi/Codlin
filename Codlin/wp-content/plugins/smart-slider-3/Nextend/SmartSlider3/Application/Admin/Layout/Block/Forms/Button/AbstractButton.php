@@ -1,0 +1,90 @@
+<?php
+
+
+namespace Nextend\SmartSlider3\Application\Admin\Layout\Block\Forms\Button;
+
+
+use Nextend\Framework\View\AbstractBlock;
+use Nextend\Framework\View\Html;
+
+abstract class AbstractButton extends AbstractBlock {
+
+    protected $url = '#';
+
+    protected $attributes = array();
+
+    protected $classes = array();
+
+    protected $baseClass = '';
+
+    protected $size = 'medium';
+
+    public function display() {
+
+        echo Html::link($this->getContent(), $this->getUrl(), $this->getAttributes());
+    }
+
+    abstract protected function getContent();
+
+    /**
+     * @return string
+     */
+    public function getUrl() {
+        return $this->url;
+    }
+
+    /**
+     * @param string $url
+     */
+    public function setUrl($url) {
+        $this->url = $url;
+    }
+
+    /**
+     * @param $className
+     */
+    public function addClass($className) {
+        $this->classes[] = $className;
+    }
+
+    public function addAttribute($name, $value) {
+        $this->attributes[$name] = $value;
+    }
+
+    public function getAttributes() {
+
+        $classes = array_merge(array($this->baseClass), $this->getClasses());
+
+        return $this->attributes + array('class' => implode(' ', $classes));
+    }
+
+    /**
+     * @param string $target
+     */
+    public function setTarget($target) {
+        $this->addAttribute('target', $target);
+    }
+
+    /**
+     * @return array
+     */
+    public function getClasses() {
+
+        $classes   = $this->classes;
+        $classes[] = $this->baseClass . '--' . $this->size;
+
+        return $classes;
+    }
+
+    public function setSmall() {
+        $this->size = 'small';
+    }
+
+    public function setMedium() {
+        $this->size = 'medium';
+    }
+
+    public function setBig() {
+        $this->size = 'big';
+    }
+}

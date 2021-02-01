@@ -1,0 +1,1130 @@
+# Copyright (C) 2019 Theme 404
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-10-14 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator:\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo; be found."
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:30
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+msgid "error"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:60 inc/minimal-business-customizer.php:202
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:63
+#, php-format
+msgid "Minimal Business by %1$s."
+msgstr ""
+
+#: footer.php:63
+msgid "404themes"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:58
+msgid "Social Media"
+msgstr ""
+
+#: functions.php:125
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:127 functions.php:137
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:135
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:145 functions.php:176
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:147 functions.php:158 functions.php:168 functions.php:178
+msgid "Appears in the buttom of footer area"
+msgstr ""
+
+#: functions.php:156 functions.php:166
+#, php-format
+msgid "Footer  %d"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:96
+msgid "Sign Up Now"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "&mdash; All &mdash;"
+msgstr ""
+
+#: inc/metabox.php:34
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox.php:39
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:44
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/metabox.php:50
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:63
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:30
+msgid "Default/Basic Setting"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:40
+msgid "Innerpages Header Image"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:54
+msgid "Choose Options"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:59
+msgid "Logo Only"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:60
+msgid "Logo + Tagline"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:61
+msgid "Title Only"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:62
+msgid "Title + Tagline"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:74
+msgid "General  Setting"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:82
+msgid "Header Section Settings"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:94
+msgid "Enable/Disable Header Feature Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:100
+#: inc/minimal-business-customizer.php:182
+#: inc/minimal-business-customizer.php:253
+#: inc/minimal-business-customizer.php:444
+#: inc/minimal-business-customizer.php:550
+#: inc/minimal-business-customizer.php:649
+#: inc/minimal-business-customizer.php:684
+#: inc/minimal-business-customizer.php:750
+#: inc/minimal-business-customizer.php:874
+#: inc/minimal-business-customizer.php:892
+#: inc/minimal-business-customizer.php:926
+#: inc/minimal-business-sanitizer.php:10
+msgid "Yes"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:101
+#: inc/minimal-business-customizer.php:183
+#: inc/minimal-business-customizer.php:254
+#: inc/minimal-business-customizer.php:445
+#: inc/minimal-business-customizer.php:551
+#: inc/minimal-business-customizer.php:650
+#: inc/minimal-business-customizer.php:685
+#: inc/minimal-business-customizer.php:751
+#: inc/minimal-business-customizer.php:875
+#: inc/minimal-business-customizer.php:893
+#: inc/minimal-business-customizer.php:927
+#: inc/minimal-business-sanitizer.php:11
+msgid "No"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:113
+msgid "Header Features Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:117
+msgid "Search"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:118
+msgid "Call To Action"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:133
+msgid " Header Call To Text  "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:134
+msgid "Enter text or HTML for call to actions"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:145
+msgid "Web Layout"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:157
+msgid "Choose The Layout That You Want"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:161
+msgid "Full  Layout"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:162
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:176
+#: inc/minimal-business-customizer.php:438
+#: inc/minimal-business-customizer.php:544
+#: inc/minimal-business-customizer.php:678
+msgid "Enable/Disable This Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:195
+msgid "Footer Copy Right Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:196
+msgid "Manage Footer  Section  for Footer Copy Right"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:209
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:222
+msgid "Home Page Setting "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:232
+msgid "Main Banner Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:233
+msgid "Manage Banner Images/Title/Description"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:247
+msgid "Enable/Disable Banner Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:267
+msgid "Available Banner "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:271
+msgid "Slider Category"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:272
+msgid "Page Banner Image"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:288
+msgid "Select Page For Banner Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:307
+msgid "Select Category For Slider Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:324
+msgid "Slider Layout"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:328
+#: inc/minimal-business-customizer.php:787
+msgid "Layout 1"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:329
+#: inc/minimal-business-customizer.php:788
+msgid "Layout 2"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:340
+msgid "Read  More"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:348 template-parts/content.php:9
+#: template-parts/sections/section-banner.php:63
+msgid "Read More"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:360
+#: inc/minimal-business-customizer.php:368
+msgid "Contact Us"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:387
+msgid "Contact Us Link"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:405
+msgid "No. of Slider"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:424
+msgid "Call To Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:425
+msgid "Manage Call To Action Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:453
+#: template-parts/sections/section-callto.php:21
+msgid "Are You An Artist or Agent?"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:460
+msgid "Call To Action Title Text"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:476
+#: inc/minimal-business-customizer.php:566
+msgid "Select Page For Service Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:477
+#: inc/minimal-business-customizer.php:567
+msgid "This Page Will Display Title And Subtitle"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:487
+#: template-parts/sections/section-callto.php:12
+msgid "Creat Your Profile Page Now"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:495
+msgid "Read More Text"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:506
+msgid "# "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:514
+msgid "Call To Link"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:529
+msgid " Service Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:530
+msgid "Manage Service Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:585
+msgid "Select category for Service Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:606
+msgid "No. of Service Post"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:617
+#: template-parts/sections/section-service.php:21
+msgid "Learn More"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:625
+msgid "Learn More Text"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:643
+msgid "Enable/Disable Read More For  This Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:662
+msgid " Subscribe Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:663
+msgid "Manage Subscribe Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:700
+msgid "Select Page For Subscribe Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:715
+msgid " Subscribe Background Image "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:731
+msgid "Client Section "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:732
+msgid "Manage Client Section Settings"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:744
+msgid "Enable/Disable Client  Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:767
+msgid "Select Category For Client Section"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:783
+msgid "Client Layout"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:805
+msgid "No. of Client Post"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:822
+msgid "Archive Page Settings"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:828
+msgid "Archive Sidebar Settings"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:842
+msgid "Choose the sidebar Layout for the archive page"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:846
+#: inc/minimal-business-sanitizer.php:110
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:847
+#: inc/minimal-business-sanitizer.php:111
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:848
+#: inc/minimal-business-sanitizer.php:112
+msgid "Sidebar Both"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:849
+#: inc/minimal-business-sanitizer.php:113
+msgid "Sidebar No"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:856
+msgid "Archive  Settings"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:868
+msgid "Enable/Disable Date"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:886
+msgid "Enable/Disable Author"
+msgstr ""
+
+#: inc/minimal-business-customizer.php:899
+#: inc/minimal-business-customizer.php:907
+msgid "Read More "
+msgstr ""
+
+#: inc/minimal-business-customizer.php:920
+msgid "Enable/Disable Read More"
+msgstr ""
+
+#: inc/minimal-business-function.php:20
+msgid "Select category"
+msgstr ""
+
+#: inc/minimal-business-function.php:56 inc/minimal-business-function.php:59
+msgid "Home"
+msgstr ""
+
+#: inc/minimal-business-function.php:65
+msgid "Archive by category"
+msgstr ""
+
+#: inc/minimal-business-function.php:67
+msgid "Search results for"
+msgstr ""
+
+#: inc/minimal-business-function.php:121
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/minimal-business-function.php:125
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/minimal-business-function.php:127
+msgid "Error 404"
+msgstr ""
+
+#: inc/minimal-business-function.php:133
+msgid "Page"
+msgstr ""
+
+#. translators: %s: search query.
+#: inc/minimal-business-function.php:161 search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/minimal-business-function.php:165
+msgid "404 Error"
+msgstr ""
+
+#: inc/minimal-business-function.php:205
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/minimal-business-function.php:210
+msgid "newsletter"
+msgstr ""
+
+#: inc/minimal-business-sanitizer.php:125
+msgid "Full Width"
+msgstr ""
+
+#: inc/minimal-business-sanitizer.php:126
+msgid "Boxed"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62 inc/template-tags.php:123
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69 inc/template-tags.php:130
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72 inc/template-tags.php:133
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/widgets-field.php:12
+msgid "--choose--"
+msgstr ""
+
+#: inc/widgets/widgets-follow.php:26
+msgid "Minimal Business : Follow Us"
+msgstr ""
+
+#: inc/widgets/widgets-follow.php:28
+msgid "A widget To Display Recent Posts"
+msgstr ""
+
+#: inc/widgets/widgets-follow.php:43
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widgets-follow.php:134
+msgid "Please set footer menu from menu section"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:56
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/sections/section-banner.php:108
+msgid "Cotact Us"
+msgstr ""
+
+#: template-parts/sections/section-service.php:115
+msgid " On "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Minimal Business"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.theme404.com/minimal-business"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Minimal Business is  WordPress theme best designed for corporate, business "
+"and creative agency websites.It is a full-fledged, responsive theme loaded "
+"with powerful features and lots of multiple options. Built in with live "
+"Customizer, the theme allows you to configure most of its elements and live "
+"preview the changes as you made.Besides, it features multiple web layouts, "
+"intuitive interface, flawless functionalities, multiple page layouts and "
+"tons of styling options.The theme is best optimized for great user "
+"experience and usability."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme 404"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://theme404.com/"
+msgstr ""

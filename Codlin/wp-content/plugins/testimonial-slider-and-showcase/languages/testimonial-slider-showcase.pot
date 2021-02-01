@@ -1,0 +1,450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Testimonials Slider and Showcase\n"
+"POT-Creation-Date: 2017-03-14 15:46+0600\n"
+"PO-Revision-Date: 2017-03-14 15:45+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: testimonial-slider-showcase.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/classes/TSSAjaxResponse.php:29
+msgid "No shortcode found."
+msgstr ""
+
+#: lib/classes/TSSPortSCMeta.php:58
+msgid "Short Code Generator"
+msgstr ""
+
+#: lib/classes/TSSPortSCMeta.php:70
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/classes/TSSPortSCMeta.php:71
+msgid "Filtering"
+msgstr ""
+
+#: lib/classes/TSSPortSCMeta.php:72
+msgid "Field Selection"
+msgstr ""
+
+#: lib/classes/TSSPortSCMeta.php:73
+msgid "Styling"
+msgstr ""
+
+#: lib/classes/TSSProAdmin.php:17
+msgid "Testimonial ShortCode"
+msgstr ""
+
+#: lib/classes/TSSProAdmin.php:31
+msgid "Image"
+msgstr ""
+
+#: lib/classes/TSSProAdmin.php:32 lib/classes/TSSProOptions.php:236
+msgid "Designation"
+msgstr ""
+
+#: lib/classes/TSSProAdmin.php:33 lib/classes/TSSProOptions.php:241
+msgid "Company"
+msgstr ""
+
+#: lib/classes/TSSProAdmin.php:34 lib/classes/TSSProOptions.php:246
+msgid "Location"
+msgstr ""
+
+#: lib/classes/TSSProFrontEnd.php:54
+msgid "No item id found"
+msgstr ""
+
+#: lib/classes/TSSProFrontEnd.php:59
+msgid "Security error"
+msgstr ""
+
+#: lib/classes/TSSProHelper.php:283
+msgid "&laquo;"
+msgstr ""
+
+#: lib/classes/TSSProHelper.php:284
+msgid "&raquo;"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:30 lib/classes/TSSProInit.php:34
+#: lib/classes/TSSProOptions.php:57 lib/classes/TSSProOptions.php:417
+msgid "Testimonial"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:32
+msgid "Testimonials"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:33
+msgid "All Testimonials"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:35 lib/classes/TSSProInit.php:36
+msgid "Testimonials Slider"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:37 lib/classes/TSSProInit.php:38
+msgid "Add Testimonial"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:39
+msgid "Edit Testimonial"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:40
+msgid "New Testimonial"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:41
+msgid "View Testimonial"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:42
+msgid "Search Testimonial"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:43
+msgid "No Testimonials found"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:44
+msgid "No Testimonials in the trash"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:64 lib/classes/TSSProInit.php:68
+#: lib/classes/TSSProInit.php:69
+msgid "ShortCode"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:65
+msgid "Testimonial ShortCode generator"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:67
+msgid "ShortCode Generator"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:70
+msgid "Edit ShortCode"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:71
+msgid "New ShortCode"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:72
+msgid "View ShortCode"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:73
+msgid "ShortCode Locations"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:74
+msgid "No ShortCode found."
+msgstr ""
+
+#: lib/classes/TSSProInit.php:75
+msgid "No ShortCode found in trash."
+msgstr ""
+
+#: lib/classes/TSSProInit.php:184
+msgid "Settings successfully updated"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:189
+msgid "Security Error !!"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:199 lib/views/settings.php:2
+msgid "Testimonial Settings"
+msgstr ""
+
+#: lib/classes/TSSProInit.php:200
+msgid "Settings"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:10
+msgid "Slug"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:12
+msgid "Slug configuration"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:53
+msgid "Name"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:69
+msgid "reCAPTCHA"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:84
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:86
+msgid "Add your custom css here!!!"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:96
+msgid "Field selection"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:101
+msgid "Check the field which you want to display"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:110
+msgid "Layout"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:117
+msgid "Display per row"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:123
+msgid "Speed"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:127
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:130
+msgid "Carousel Options"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:139
+msgid "Autoplay timeout"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:143
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:147 lib/classes/TSSProOptions.php:294
+#: lib/classes/TSSProOptions.php:401
+msgid "Pagination"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:149
+msgid "Enable"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:154
+msgid "Display per page"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:157
+msgid ""
+"If value of Limit setting is not blank (empty), this value should be smaller "
+"than Limit value."
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:162
+msgid "Load more button text"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:164
+msgid "Load more"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:168
+msgid "Image Size"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:174
+msgid "Custom Image Size"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:179
+msgid "Image Type"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:186
+msgid "Margin"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:188
+msgid "Select the margin for layout"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:199
+msgid "Include only"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:201 lib/classes/TSSProOptions.php:207
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:205
+msgid "Exclude"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:211
+msgid "Limit"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:213
+msgid "The number of posts to show. Set empty to show all found posts."
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:217
+msgid "Order By"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:224
+msgid "Order"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:257
+msgid "Primary Color"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:295
+msgid "Ajax Number Pagination ( Only for Grid )"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:297
+msgid "Load more button (by ajax loading)"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:298
+msgid "Load more on scroll (by ajax loading)"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:322
+msgid "Ascending"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:323
+msgid "Descending"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:343
+msgid "Soft Crop"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:344
+msgid "Hard Crop"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:397
+msgid "Loop"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:398
+msgid "Auto Play"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:399
+msgid "Pause on mouse hover"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:400
+msgid "Nav Button"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:402
+msgid "Auto Height"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:411
+msgid "Video"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:415
+msgid "Author"
+msgstr ""
+
+#: lib/classes/TSSProOptions.php:416
+msgid "Author Image"
+msgstr ""
+
+#: lib/classes/TSSProPostMeta.php:13
+msgid "Testimonial's Information"
+msgstr ""
+
+#: lib/classes/TSSProSC.php:174
+msgid "Loading ..."
+msgstr ""
+
+#: lib/classes/TSSProSC.php:229
+msgid "No testimonial found"
+msgstr ""
+
+#: lib/classes/TSSProSC.php:247
+msgid "No shortCode found"
+msgstr ""
+
+#: lib/models/TSSProField.php:503
+msgid "Width"
+msgstr ""
+
+#: lib/models/TSSProField.php:568 lib/models/TSSProField.php:592
+msgid "Active Social link"
+msgstr ""
+
+#: lib/models/TSSProField.php:577
+msgid "Available Social link"
+msgstr ""
+
+#: lib/views/settings.php:7
+msgid "General"
+msgstr ""
+
+#: lib/views/settings.php:8
+msgid "Custom Css"
+msgstr ""
+
+#: lib/views/settings.php:18
+msgid "Save Changes"
+msgstr ""
+
+#: lib/widgets/TSSscWidget.php:12
+msgid "Display Testimonial"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: lib/widgets/TSSscWidget.php:14
+msgid "Testimonials Slider and Showcase"
+msgstr ""
+
+#: lib/widgets/TSSscWidget.php:44
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/TSSscWidget.php:50
+msgid "Select a shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://radiustheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Testimonial Slider And Showcase plugin is a fully Responsive to manage your "
+"company or site Testimonials."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RadiusTheme"
+msgstr ""

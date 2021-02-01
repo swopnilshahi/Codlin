@@ -1,0 +1,467 @@
+input.large-text.code.tlp-code-sc {
+    color: #fff;
+    background: #5d3dfd;
+    font-weight: bold;
+}
+
+/* ============== MetaBox START ============== */
+.post-type-tss-sc #misc-publishing-actions {
+    display: none;
+}
+
+.post-type-tss-sc #minor-publishing-actions {
+    padding: 0;
+}
+
+.post-type-tss-sc #submitdiv > .handlediv,
+.post-type-tss-sc #submitdiv h2 {
+    display: none;
+}
+
+#rt_plugin_tss_sc_pro_information button.handlediv,
+#rt_plugin_tss_sc_pro_information h2.hndle {
+    display: none;
+}
+
+#rt_tss_sc_settings_meta h2.hndle {
+    font-size: 18px;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#rt_tss_sc_settings_meta,
+#rt_plugin_tss_sc_pro_information {
+    background: transparent;
+    border: 0;
+}
+
+#rt_tss_sc_settings_meta .inside,
+#rt_plugin_tss_sc_pro_information .inside {
+    padding: 0;
+    margin: 0;
+}
+
+/* ============== MetaBox END ================ */
+
+/* ============== Nav style START ============== */
+ul.rt-tab-nav {
+    padding: 0;
+    display: flex;
+    border-bottom: 1px solid #dee2e6;
+    margin: 0;
+}
+
+ul.rt-tab-nav li {
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: -1px;
+}
+
+ul.rt-tab-nav li + li {
+    margin-left: 2px;
+}
+
+ul.rt-tab-nav li a {
+    position: relative;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 4px 4px 0 0;
+    display: inline-block;
+    text-decoration: none;
+    z-index: 2;
+    transition: all 0.3s ease-in-out;
+}
+
+ul.rt-tab-nav li:focus {
+    outline: none;
+}
+
+ul.rt-tab-nav li a:after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    background-color: #5d3dfd;
+    border-radius: 4px 4px 0 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    transition: all 0.3s ease-in-out;
+}
+
+ul.rt-tab-nav li.active a {
+    color: #5d3dfd;
+}
+
+ul.rt-tab-nav li.active a:after {
+    height: 10%;
+}
+
+ul.rt-tab-nav li a i {
+    margin-right: 10px;
+}
+
+ul.rt-tab-nav li:last-child a {
+    border-right: 0;
+}
+
+ul.rt-tab-nav li a:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/* ============== Nav style END ================ */
+
+/* ============== Container START ============== */
+.rt-tab-content {
+    display: none;
+    background: #fff;
+}
+
+.rt-field-wrapper {
+    border-bottom: 1px solid #e7e7e7;
+    padding: 10px 0;
+    display: flex;
+}
+
+.rt-label {
+    font-weight: bold;
+    flex: 0 0 200px;
+    padding: 15px 10px 15px 15px;
+}
+
+.rt-field {
+    flex: 1;
+    padding: 15px 15px 15px 10px;
+    max-width: 800px;
+}
+
+.rt-field .rt-form-control {
+    width: 100%;
+    max-width: 100%;
+}
+.rt-field .rt-form-control[type="number"] {
+    width: 70px;
+}
+
+.rt-field-wrapper .custom-css {
+    border: 1px solid #dfdfdf;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    position: relative;
+}
+
+.rt-field-wrapper .checkbox-group.vertical > label,
+.rt-field-wrapper .radio-group.vertical > label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.rt-field-wrapper .checkbox-group > label {
+    margin-right: 15px;
+}
+
+.rt-field-wrapper .rt-select {
+    min-width: 300px;
+}
+
+.rt-field-wrapper .select2-container {
+    width: 100% !important;
+}
+
+
+.rt-field-wrapper .wp-picker-container .iris-picker {
+    position: absolute;
+    z-index: 999;
+}
+
+.rt-field-wrapper .wp-picker-container.wp-picker-active {
+    width: 265px;
+}
+
+.rt-field-wrapper > .rt-field > .field-item > .wp-picker-container > a {
+    margin: 0;
+}
+
+/* ============== Container END ================ */
+
+/* ============== Others START ============== */
+
+.rt-image-preview span.dashicons.dashicons-plus-alt.rtAddImage,
+.rt-image-preview span.dashicons.dashicons-trash.rtRemoveImage {
+    position: absolute;
+    cursor: pointer;
+}
+
+.rt-image-preview span.dashicons.dashicons-plus-alt.rtAddImage {
+    right: -10px;
+    top: -10px;
+    color: green;
+}
+
+.rt-image-preview span.dashicons.dashicons-trash.rtRemoveImage {
+    color: red;
+    left: -10px;
+    top: -10px;
+}
+
+
+.rt-setting-holder .custom-css {
+    border: 1px solid #dfdfdf;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    position: relative;
+}
+
+.rt-tab-container .rt-field-wrapper .wp-picker-container .iris-picker {
+    position: absolute;
+    z-index: 999;
+}
+
+.rt-tab-container .rt-field-wrapper .wp-picker-container.wp-picker-active {
+    width: 265px;
+}
+
+/* ============== Others END ================ */
+
+/* ============== Pro Feature START ============== */
+
+body .rt-admin-btn,
+body .rt-admin-btn.button-primary {
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+    color: #5d3dfd;
+    text-decoration: none;
+    padding: 9px 18px;
+    border-radius: 4px;
+    position: relative;
+    z-index: 2;
+    line-height: 1.4;
+    transition: all 0.3s ease-in-out;
+    height: auto;
+    border: 2px solid #5d3dfd;
+}
+
+body .rt-admin-btn.button-primary,
+body .rt-admin-btn:hover {
+    background-color: #4e35cc;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.rt-document-box.rt-update-pro-btn-wrap {
+    padding: 0;
+}
+
+.rt-update-pro-btn-wrap .rt-update-pro-btn {
+    text-align: center;
+    background-color: #5d3dfd;
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 4px;
+    transition: all 0.3s ease-in-out;
+}
+
+.rt-document-box {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 1px 18px 0 rgba(0, 0, 0, 0.08);
+    box-shadow: 0 1px 18px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+    padding: 30px 20px;
+    display: flex;
+}
+
+.rt-document-box + .rt-document-box {
+    margin-top: 30px;
+}
+
+.rt-document-box .rt-box-icon {
+    height: 30px;
+    width: 30px;
+    background-color: #ecf1ff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-right: 10px;
+}
+
+.rt-document-box .rt-box-icon i {
+    font-size: 20px;
+    color: #5d3dfd;
+}
+
+.rt-document-box .rt-box-content {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.rt-document-box .rt-box-content .rt-box-title {
+    margin: 0 0 12px 0;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.rt-document-box .rt-box-content p {
+    font-size: 14px;
+    color: #646464;
+    margin: 0 0 25px 0;
+}
+
+.rt-box-content ol {
+    margin-left: 1em;
+}
+
+.rt-update-pro-btn-wrap .rt-update-pro-btn:hover {
+    background-color: #4e35cc;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.rt-pro-feature-content .rt-update-pro-btn {
+    display: block;
+    width: 100%;
+}
+
+/* ============== Pro Feature END ================ */
+
+/* ============== Settings START ============== */
+
+.rt-settings-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.rt-setting-title h3 {
+    font-size: 18px;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.rt-pro-feature-content {
+    display: flex;
+}
+
+.rt-settings-container .rt-document-box + .rt-document-box {
+    margin-top: 0;
+    margin-left: 30px;
+}
+
+.rt-settings-container .rt-pro-feature-content .rt-update-pro-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rt-settings-container .rt-response {
+    display: none;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    margin: 10px 0;
+    padding: 10px 12px;
+}
+
+.rt-response.success {
+    border-left-color: #46b450;
+}
+
+.rt-response.error {
+    border-left-color: #dc3232;
+}
+
+/* ============== Settings END ================ */
+
+/* ============== End ============== */
+#tss-loading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 999999999;
+    background: rgba(0, 0, 0, .7);
+    top: 0;
+}
+
+#tss-loading span.tss-loading {
+    display: block;
+    top: 50%;
+    position: fixed;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+
+/* ------------------------------------------------------------------------- *
+ *  Media Query
+/* ------------------------------------------------------------------------- */
+@media (max-width: 1199px) {
+    .rt-update-pro-btn-wrap .rt-update-pro-btn {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .rt-update-pro-btn-wrap .rt-update-pro-btn {
+        font-size: 18px;
+    }
+
+    .rt-pro-feature-content {
+        flex-direction: column;
+    }
+
+    .rt-settings-container .rt-document-box + .rt-document-box {
+        margin-top: 30px;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 479px) {
+    .rt-update-pro-btn-wrap .rt-update-pro-btn {
+        font-size: 16px;
+    }
+
+    .rt-field-wrapper {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .rt-label {
+        flex: 1;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+
+    .rt-field {
+        padding: 0;
+    }
+}
+

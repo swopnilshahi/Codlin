@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'ccw';
+  src:  url(../fonts/ccw.eot);
+  src:  url(../fonts/ccw.eot#iefix) format('embedded-opentype'),
+    url(../fonts/ccw.ttf) format('truetype'),
+    url(../fonts/ccw.woff) format('woff'),
+    url(../fonts/ccw.svg#ccw) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ctc-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ccw' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ctc-icon-whatsapp2:before {
+  content: "\E902";
+}
+
+.ctc-icon-whatsapp:before {
+  content: "\ea93";
+}
+
+/* new: s7,8 */

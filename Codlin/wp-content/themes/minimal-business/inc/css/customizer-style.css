@@ -1,0 +1,160 @@
+ul.icons-list-wrapper li {
+    display: inline-block;
+    padding: 3px;
+}
+.selected-icon-preview {
+    text-align: center;
+    border: 1px  solid #ddd;
+    padding: 5px 0;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.selected-icon-preview .fa{
+    font-size: 22px;
+    color: #333;
+}
+.icons-list-wrapper li {
+    width: 15%;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+    float: left;
+    transition: 0.5s all ease;
+}
+.icons-list-wrapper li .fa:hover{
+    color: #24bdcc;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+    transition: 0.5s all ease;
+}
+
+ul.icons-list-wrapper{
+    height: 150px;
+    border: 1px solid #ddd;
+    padding: 10px 0;
+    overflow-y: scroll;
+}
+li#customize-control-counter_icon_sec_separator_three,
+li#customize-control-counter_icon_sec_separator_two,
+li#customize-control-counter_icon_sec_separator,
+li#customize-control-service_sec_separator,
+li#customize-control-service_sec_separator_two{
+    margin-top: 30px;
+    border-top: 1px solid #ddd;
+    padding-top: 30px;
+} 
+
+.customize-control-title{
+    text-transform: capitalize;
+}
+li#customize-control-counter_icon_sec_separator span.customize-control-title,
+li#customize-control-counter_icon_sec_separator_two span.customize-control-title,
+li#customize-control-counter_icon_sec_separator_three span.customize-control-title,
+li#customize-control-service_sec_separator span.customize-control-title,
+li#customize-control-service_sec_separator_two span.customize-control-title{
+    background-color: #999;
+    color: #333;
+    padding: 5px;
+    text-align: center;
+}
+
+#customize-control-the_multiple_por_information p a {
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 0;
+    padding: 10px;
+    cursor: pointer;
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    text-align: center;
+}
+#customize-control-the_multiple_por_information p a:hover{
+    filter: brightness(90%);
+}
+.admin-pro-feature-list li{
+    margin-bottom: 15px;
+}
+.admin-pro-feature-list li::before{
+    content: '\f0a9';
+    margin-right: 10px;
+    display: inline-block;
+    font-family: 'fontAwesome';
+    font-size: 14px;
+}
+
+li#custom-section-the-multiple-pro{
+    background-color: #016a90;
+    line-height: 2;
+    height: 29px;
+    color: #fff;
+    padding: 10px 22px 10px 10px;
+    position: relative;
+}
+li#custom-section-the-multiple-pro::after{
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 15px solid #eee;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    right: 0;
+    top: 0;
+}
+h3.custom-section-title {
+    margin: 0;
+    color: #fff;
+}
+
+#tm-sections-reorder li {
+border: 1px solid #dfdfdf;
+cursor: move !important;
+font-weight: bold;
+padding: 0 10px !important;
+height: 40px;
+line-height: 40px !important;
+background-color: #f1f1f1;
+background-image: -ms-linear-gradient(top, #f9f9f9, #ececec);
+background-image: -moz-linear-gradient(top, #f9f9f9, #ececec);
+background-image: -o-linear-gradient(top, #f9f9f9, #ececec);
+background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#ececec));
+background-image: -webkit-linear-gradient(top, #f9f9f9, #ececec);
+background-image: linear-gradient(top, #f9f9f9, #ececec);
+overflow: hidden;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+-moz-box-shadow: inset 0 1px 0 #fff;
+-webkit-box-shadow: inset 0 1px 0 #fff;
+box-shadow: inset 0 1px 0 #fff;
+text-align: center;
+color: #696969;
+}
+.pre-icon-container{
+    margin-right: -1%;
+}
+.pre-icon-container:after{
+    content:'';
+    display: block;
+    clear: both;
+}
+.pre-icon-container span{
+    width: 32.33%;
+    display: block;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    border:1px solid #ddd;
+    margin-right:1%;
+}

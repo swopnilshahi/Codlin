@@ -1,0 +1,19 @@
+<?php
+
+
+namespace Nextend;
+
+
+use JEventDispatcher;
+use JFactory;
+use Nextend\Framework\Pattern\GetPathTrait;
+use Nextend\Framework\Pattern\SingletonTrait;
+
+class Nextend {
+
+    use GetPathTrait;
+    use SingletonTrait;
+
+    protected function init() {
+    }
+}
